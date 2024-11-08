@@ -7,6 +7,7 @@ import java.util.Iterator;
 
 public class Main {
     public static void main(String[] args) throws FullException, EmptyException {
+        /*
         Stack_DL<Double> stack_hipopotamos = new Stack_DL<>(10);
 
         stack_hipopotamos.push(2027.89);
@@ -48,7 +49,7 @@ public class Main {
         while (iterator1.hasNext()) {
             System.out.println(iterator1.next());
         }
-
+*/
 
 
     }
