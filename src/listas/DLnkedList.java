@@ -352,8 +352,6 @@ public class DLnkedList <T> implements Lists<T> {
     }
 
 
-    public Node<T> getRoot() {
-        return root;
-    }
+
 
 }

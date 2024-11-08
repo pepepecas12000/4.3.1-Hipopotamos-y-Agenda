@@ -1,6 +1,6 @@
 import exceptions.EmptyException;
 import exceptions.FullException;
-import listas.DLnkedList;
+
 import stack_DL.Stack_DL;
 
 import java.util.Iterator;
